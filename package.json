@@ -1,0 +1,8 @@
+{
+  "name": "jwt-test-01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/eungook/jwt-test-01.git",
+  "author": "YI Eun Gook <eungook83@gmail.com>",
+  "license": "MIT"
+}
